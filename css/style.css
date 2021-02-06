@@ -1,6 +1,7 @@
 /********** Base styles **********/
 * {
 	box-sizing: border-box;
+  font-family: tahoma;
 }
 h1 {
   margin-bottom: 15px;
@@ -11,7 +12,6 @@ p {
   background-color: gray;
   width: 90%;
   height: 150px;
-  font-family: tahoma;
   color: black;
 }
 
